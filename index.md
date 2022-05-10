@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## USB MEDIA READER
 
-You can use the [editor on GitHub](https://github.com/devakhi/usb-media-reader/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+USB Media Reader plans to address ( of what I think to be ) the common flaws of the base Roku™ media center that handles USB / other types of storage displaying content.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
